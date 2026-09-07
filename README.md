@@ -1,7 +1,5 @@
 # Smart_Research_Assistant
 
-#  Smart Research Assistant
-
 An AI-powered research assistant that uses **Generative AI and NLP** to summarize articles and answer questions based on their content.
 
 ##  Objectives
